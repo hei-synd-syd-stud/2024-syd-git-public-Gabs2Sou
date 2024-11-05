@@ -28,6 +28,9 @@ main : C'est le nom de la branche principale du dépôt dans laquelle on travail
 
 Après les parenthèses : C'est le message du commit, en l'occurrence "ADD: README file".
 ### Task 6
+Initial commit : Les fichiers et dossiers ont été réinitialisés à leur état de départ. Donc par exemple le fichier answers.md était à l'état de départ.
+
+Dernier commit : Les fichiers et dossiers ont retrouvé leur état final. Donc par exemple le fichier answers contient de nouveau les réponses 1 à 5.
 
 ## Gitgraph
 
