@@ -33,7 +33,26 @@ Initial commit : Les fichiers et dossiers ont été réinitialisés à leur éta
 Dernier commit : Les fichiers et dossiers ont retrouvé leur état final. Donc par exemple le fichier answers contient de nouveau les réponses 1 à 5.
 
 ## Gitgraph
-
 ### Task 7
+1) "develop" correspond au nom de la branche utilisée pour le développement en cours.
+
+2) "baa6795" est le hash du commit, ces codes sont des identifiants unique pour chaque commit ce qui permet de les référer précisemment.
+
+3) Il s'agit du message rentrer lors du commit.
+
+4) Il s'agit de l'auteur du commit. C'est à dire l'auteur des modifications.
+
+5) C'est la version du projet.
+
+6) Il s'agit de la branche develop qui a été fusionné avec la branche main. 
+
+7) Il s'agit de la branche feature-auth qui a été fusionné avec develop.
+
+8) Il s'agit de la branche main. 
+
+9) Ces commit font parties de la branche develop ou main et représentent l'historique des changements apportés. 
+
+10) Il s'agit du commit initial du projet.
+ 
 
 ![Gitgraph](img/gitgraph.svg)
